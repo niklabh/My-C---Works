@@ -6,7 +6,7 @@
 /*=========================================================*/
 /*==================RELEASE NOTES==========================*/
 /*  To change clock position,size and speed only change #define
-    values.Inner integer values shoild be edited with caution.
+    values.Inner integer values should be edited with caution.
     It is wise to keep backup before editing.For queries and
     help contact me:
 
